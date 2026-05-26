@@ -1,0 +1,6 @@
+{
+  "name": "Student Dashboard",
+  "description": "An interactive, elegant dashboard that tracks cumulative GPA, grades, weekly schedules, and upcoming assignments with ease.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
